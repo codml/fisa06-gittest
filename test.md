@@ -22,4 +22,4 @@ print(sqrt(3))
 - 바로가기
 [네이버](http://naver.com)
 - 이미지링크
-![이미지]()
+![이미지](https://github.com/codml/fisa06-gittest/blob/main/%EC%8B%A0%EC%A7%B1%EA%B5%AC.png?raw=true)
