@@ -18,6 +18,7 @@ __강조__
 import math
 
 print(sqrt(2))
+print(sqrt(4))
 ```
 - 바로가기
 [네이버](http://naver.com)
