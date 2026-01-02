@@ -17,7 +17,7 @@ __강조__
 ```
 import math
 
-print(sqrt(3))
+print(sqrt(2))
 ```
 - 바로가기
 [네이버](http://naver.com)
